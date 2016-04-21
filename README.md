@@ -1,4 +1,4 @@
 C-Visualizer
 ============
 
-OpenGL and C Visualizer Project/ In Progress.
+OpenGL and C Visualizer Project from class project
